@@ -1,0 +1,19 @@
+{
+  "name": "eleventy-plugin-htaccess",
+  "version": "0.1.0",
+  "description": "Eleveny Plugin Htaccess creates a htaccess file on build with default settings for performance and security.",
+  "main": ".eleventy.js",
+  "author": "Ben Fourie",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:benfo/eleventy-plugin-htaccess.git"
+  },
+  "keywords": [
+    "11ty",
+    "eleventy",
+    "plugin",
+    "htaccess",
+    "apache"
+  ]
+}
